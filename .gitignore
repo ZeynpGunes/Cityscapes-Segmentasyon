@@ -1,0 +1,37 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# PyCharm project files
+.idea/
+
+# VS Code project files
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Data files (if you don't want to track large datasets)
+data/
+data/filtered_masks/
+
+# Model checkpoints
+checkpoints/
+
+# Other files that should not be tracked
+*.bak
+*.swp
